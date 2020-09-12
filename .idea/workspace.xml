@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d66104a1-fedf-4597-abbf-8780db7d5b2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yolov5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yolov5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/smoke.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/10412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/10413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/10487.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/10672.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/11203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/11375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/11683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/11739.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/20013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/20016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/images/213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/10412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/10413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/10487.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/10672.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/11203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/11375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/11683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/11739.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/20013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/20016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/output/213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labels.png" beforeDir="false" afterPath="$PROJECT_DIR$/labels.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/yolov5s.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/models/yolov5s.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results.png" beforeDir="false" afterPath="$PROJECT_DIR$/results.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_batch0_gt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_batch0_pred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_batch0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_batch1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_batch2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/google_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/google_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/yolov5_hat_person_best.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/yolov5_hat_person_last.pt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gMA2Cvsmm4OKMutU7FxNb7l0IT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/bin/conda" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="google_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/google_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.google_utils" />
+        <item itemvalue="Python.detect" />
+        <item itemvalue="Python.11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66104a1-fedf-4597-abbf-8780db7d5b2d" name="Default Changelist" comment="" />
+      <created>1597913879130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597913879130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="913" y="323" key="FileChooserDialogImpl" timestamp="1599730636327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="913" y="323" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599730636327" />
+    <state width="1495" height="239" key="GridCell.Tab.0.bottom" timestamp="1599815851649">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1495" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599815851649" />
+    <state width="1495" height="239" key="GridCell.Tab.0.center" timestamp="1599815851627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1495" height="239" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599815851627" />
+    <state width="1495" height="239" key="GridCell.Tab.0.left" timestamp="1599815851623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1495" height="239" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599815851623" />
+    <state width="1495" height="239" key="GridCell.Tab.0.right" timestamp="1599815851640">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1495" height="239" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599815851640" />
+    <state width="1346" height="240" key="GridCell.Tab.1.bottom" timestamp="1598696523761">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1346" height="240" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598696523761" />
+    <state width="1346" height="240" key="GridCell.Tab.1.center" timestamp="1598696523755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1346" height="240" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598696523755" />
+    <state width="1346" height="240" key="GridCell.Tab.1.left" timestamp="1598696523752">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1346" height="240" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598696523752" />
+    <state width="1346" height="240" key="GridCell.Tab.1.right" timestamp="1598696523758">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1346" height="240" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598696523758" />
+    <state x="454" y="234" width="1012" height="700" key="SettingsEditor" timestamp="1599788440458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="234" width="1012" height="700" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599788440458" />
+    <state x="632" y="430" key="com.intellij.ide.util.TipDialog" timestamp="1599547679999">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="632" y="430" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599547679999" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/datasets.py</url>
+          <line>288</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
